@@ -1,0 +1,156 @@
+.cabecalho {
+    width: 1400px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .principal {
+    top: 0px;
+    left: 0px;
+    height: 98px;
+  }
+  
+  .principal a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
+  
+  .menu {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-img {
+    width: 20%;
+    position: relative;
+    
+  }
+  
+  .principal p {
+    color: #3E88D7;
+    margin-left: 6px;
+    position: relative;
+  }
+  
+  .principal {
+    display: flex;
+    align-items: center;
+  }
+
+  .etiqueta {
+    position: relative;
+    padding: 0 20px;
+    border-radius: 26px;
+    box-shadow: 1px 2px 8px rgba(231, 6, 6, 0.2);
+    background-color: rgb(255, 255, 255);
+    margin-right: 50%;
+  
+  }
+  
+  .lupa {
+    position: absolute;
+    top: 13px;
+    left: 16px;
+    filter: invert(0.1);
+    width: 8%;
+  }
+  
+  .busca {
+    padding: 16px 20px;
+    margin-left: 5px;
+    border: none;
+    outline: none;
+  }
+  
+  .busca::placeholder {
+    color: rgba(0, 0, 0, 0.3);
+    font-weight: 700;
+    font-size: 0.8rem;
+    line-height: 16.37px;
+  }
+
+  .logo {
+    display: block;
+    position: absolute;
+    margin-left: 631.67px;
+    margin-top: 5px;
+  }
+
+  .logotipo {
+    padding: 0px 0px 0px 0px;
+  }
+  
+  .opcoes {
+    position: absolute;
+    top: 13px;
+    right: 100px;
+    height: 100%;
+}
+
+.opcoes ul {
+    margin: 0;
+    padding: 0;
+}
+
+.opcoes li {
+    list-style: none;
+    display: inline-block;
+    padding: 21px;
+}
+
+.opcoes a {
+    color: #3E88D7;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 13px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: right;
+    font-weight: bold;
+}
+
+.selecao {
+  position: absolute;
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  justify-content: space-between;
+  margin-top: 51.2px;
+  margin-bottom: 0px;
+  list-style: none;
+  right: 70px;
+  padding: 0px 0px 0px 50px;
+  width: 1351.5px;
+  height: 63px;
+  
+}
+
+.selecao li {
+  position: relative;
+  margin-left: -20px;
+  padding: 20px;
+}
+
+.selecao a {
+  color: #6C6C6C;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 0px 20;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.publicidade-titulo {
+  font-size: 21px;
+  text-align: right;
+  margin-top: -8%;
+  margin-right: 50%;
+  color: white;
+}
+
+.publicidade-titulo span {
+  align-items: center;
+  display: flex;
+  font-size: 16px;
+}
+
+
