@@ -45,10 +45,31 @@
 }
 
 .paragrafo-4-4 p {
-  position:absolute;
+  position: absolute;
   margin-top: -41px;
   margin-left: 25%;
   font-weight: bold;
   font-size: 14px;
+  color: rgb(204, 202, 202);
+}
+
+.paragrafo-5 h4 {
+  background-color: #3E88D7;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-left: 0%;
+  font-weight: bold;
+  padding: 13px;
+  width: 50%;
   color: white;
+  font-size: 14px;
+}
+
+.paragrafo-5 p {
+  position: absolute;
+  margin-top: -41px;
+  margin-left: 18%;
+  font-weight: bold;
+  font-size: 14px;
+  color: rgb(204, 202, 202);
 }
