@@ -12,3 +12,43 @@
     padding: 0;
   }
 
+.paragrafo-4 {
+  left: 250px;
+  width: 870px;
+  height: 143px;
+  text-align: left;
+  font-size: 20px;
+  color: #6C6C6C;
+  line-height: 2.0;
+  font-weight: bold;
+  padding: 40px 180px;
+  text-align: justify;
+}
+
+.paragrafo-4 img {
+  background-color: #3E88D7;
+  border-radius: 50px;
+  width: 7%;
+  margin-top: 30px;
+}
+
+.paragrafo-4-4 h4 {
+  background-color: #3E88D7;
+  border-radius: 50px;
+  margin-top: -70px;
+  margin-left: 10%;
+  font-weight: bold;
+  padding: 13px;
+  width: 50%;
+  color: white;
+  font-size: 14px;
+}
+
+.paragrafo-4-4 p {
+  position:absolute;
+  margin-top: -41px;
+  margin-left: 25%;
+  font-weight: bold;
+  font-size: 14px;
+  color: white;
+}

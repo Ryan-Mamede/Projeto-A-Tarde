@@ -146,4 +146,117 @@
     width: 7%;
   }
   
+  .secao-block {
+    margin-top: 70px;
+    margin-left: 17.8%;
   
+  }
+  
+  .paragrafo-2 {
+    margin-top: 480px;
+    margin-left: 17.8%;
+  }
+  
+  .titulo-article-2 {
+    font-size: 24px;
+    padding: 20px 0px;
+  }
+  
+  .paragrafo-2-2 {
+    font-size: 20px;
+    color: #343434;
+    line-height: 1.8;
+    text-align: left;
+    font-weight: bold;
+  }
+
+  blockquote {
+    margin-top: 70px;
+    font-size: 30px;
+    border-left: 3px solid #3E88D7;
+    padding: 0px 40px;
+    font-weight: bold;
+  }
+  
+  .paragrafo-3 {
+    margin-top: 50px;
+    color: #6C6C6C;
+    font-size: 20px;
+    width: 893px;
+  }
+
+  .article-secao-3 h3 {
+    font-size: 18px;
+    color: #3E88D7;
+    text-align: left;
+    margin-left: -15.2%;
+    margin-top: 10%;
+  }
+  
+  .article-secao-3 ul {
+    margin-top: 20px;
+    margin-left: -19%;
+  
+  }
+  
+  .article-secao-3 ul li {
+    font-size: 18px;
+    color: #3E88D7;
+    font-weight: bold;
+    padding: 10px 0px;
+  }
+
+  .jogador {
+    position: absolute;
+    width: 30%;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: -320px;
+  }
+  
+  .jogador-2 {
+    position: absolute;
+    width: 23.7%;
+    border-radius: 20px;
+    margin-top: 39px;
+    margin-left: 175px;
+  
+  }
+  
+  .jogador-3 {
+    position: absolute;
+    width: 23.7%;
+    height: 30.5%;
+    border-radius: 20px;
+    margin-top: 275px;
+    margin-left: 175px;
+  }
+  
+  .descricao-fla {
+    margin-top: 53%;
+    font-size: 14px;
+    color: #6C6C6C;
+    font-weight: bold;
+  }
+
+  .citacao img {
+    margin-left: 11%;
+  }
+  
+  .citacao h3 {
+    margin-top: -11.5%;
+    padding: 0px 350px;
+    font-size: 30px;
+    width: 700px;
+    text-align: left;
+    color: #343434
+  }
+  
+  .citacao p {
+    margin-top: 12px;
+    padding: 0px 352px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #9F9F9F;
+  }
+    
